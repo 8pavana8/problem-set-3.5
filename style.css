@@ -39,6 +39,10 @@ a:link {
   color: teal;
 }
 
+p {
+  font-size: 40px;
+}
+    
 .lightblue {
   background-color: lightblue;
 }
